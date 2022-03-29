@@ -7,4 +7,9 @@ functions
 maps
 pointers
 range slice
-struct and struct methods
+struct and struct method
+#Rest JWT Authentication
+3 endpoints - home - protected
+login - for authentication
+refresh - for token refresh
+
