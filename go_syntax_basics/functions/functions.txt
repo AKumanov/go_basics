@@ -1,0 +1,15 @@
+FUNCTION BASICS
+
+A function is an independent section of code that maps zero or more input params
+
+A function declaration contains:
+- 'func' keyword
+- name;
+- parameter-list; parameters are local to the body of the function;
+- result-list (optional-results may be named)
+- body;
+
+	func name(parameter-list) (result-list) {
+		body
+	}
+
